@@ -16,7 +16,7 @@ Vector-role
 Все переменные доступны для изменения пользователем и хранятся в файле `defaults.yml`.
 
 |Переменная|Описание|Значение по умолчанию|
-|---|---|---|---|
+|---|---|---|
 |vector_version|Версия Vector|0.31.0|
 |clickhouse_addr|Адрес endpoint для конфигурации Vector|158.160.20.15|
 |vector_config_home|Директория хранения конфигурационного файла Vector|{ ansible_user_dir }}/vector_config|
